@@ -1,0 +1,35 @@
+package com.example.pocketbudget.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Green = Color(0xFF0F6E56)
+val GreenContainer = Color(0xFFA8F0D4)
+val OnGreenContainer = Color(0xFF002117)
+val Leaf = Color(0xFF3F5E4B)
+val LeafContainer = Color(0xFFD5E8DB)
+val OnLeafContainer = Color(0xFF1A2E22)
+val Amber = Color(0xFF8A5A12)
+val AmberContainer = Color(0xFFFFDDB3)
+val OnAmberContainer = Color(0xFF2C1700)
+val Ink = Color(0xFF1A1F1C)
+val BackgroundLight = Color(0xFFF3F6F4)
+val SurfaceVariantLight = Color(0xFFE1E8E3)
+val OnSurfaceVariantLight = Color(0xFF404944)
+val OutlineLight = Color(0xFF707973)
+
+val GreenLight = Color(0xFF8ED7B0)
+val BackgroundDark = Color(0xFF101412)
+val SurfaceDark = Color(0xFF101412)
+val SurfaceContainerDark = Color(0xFF1C2622)
+val SurfaceContainerLowDark = Color(0xFF18211D)
+val OnSurfaceDark = Color(0xFFE3E8E4)
+val OnSurfaceVariantDark = Color(0xFFC1CBC4)
+
+val IncomeLight = Color(0xFF0F6E56)
+val ExpenseLight = Color(0xFFBA1A1A)
+val IncomeContainerLight = Color(0xFFD8F3E6)
+val ExpenseContainerLight = Color(0xFFFFE4DE)
+val IncomeDark = Color(0xFF8ED7B0)
+val ExpenseDark = Color(0xFFFFB4AB)
+val IncomeContainerDark = Color(0xFF14382C)
+val ExpenseContainerDark = Color(0xFF5C2824)
